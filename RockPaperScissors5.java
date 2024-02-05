@@ -48,5 +48,6 @@ public class RockPaperScissors5 {
 	}
 }
 System.out.println("Thanks for playing!");
+	  //added output message
 }
   }
