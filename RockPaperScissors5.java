@@ -47,6 +47,6 @@ public class RockPaperScissors5 {
 			System.out.println("You lose, haha!");
 	}
 }
-
+System.out.println("Thanks for playing!");
 }
   }
